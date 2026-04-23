@@ -1,86 +1,8 @@
 {
   "qq_number": "1208164529",
   "group_number": "1101210790",
-  "updated_at": "2026-04-23T15:30:45.395496",
+  "updated_at": "2026-04-23T15:36:32.193536",
   "skins": [
-    {
-      "name": "苏婳贴纸底包",
-      "file": "小米の草莓季脆安卓.bds",
-      "thumb": "小米の草莓季脆安卓.bds_py_26_light_thumb.png",
-      "full": "小米の草莓季脆安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "小米のKrimss脆安卓",
-      "file": "小米のKrimss脆安卓.bds",
-      "thumb": "小米のKrimss脆安卓.bds_py_26_light_thumb.png",
-      "full": "小米のKrimss脆安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "小米の十字架天使心脆安卓",
-      "file": "安卓小米の十字架天使心脆.bds",
-      "thumb": "安卓小米の十字架天使心脆.bds_py_26_light_thumb.png",
-      "full": "安卓小米の十字架天使心脆.bds_py_26_light.png"
-    },
-    {
-      "name": "小米のKrimss闷安卓",
-      "file": "小米のKrimss闷安卓.bds",
-      "thumb": "小米のKrimss闷安卓.bds_py_26_light_thumb.png",
-      "full": "小米のKrimss闷安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "苏婳贴纸底包",
-      "file": "小米の草莓季脆2安卓.bds",
-      "thumb": "小米の草莓季脆2安卓.bds_py_26_light_thumb.png",
-      "full": "小米の草莓季脆2安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "苏婳贴纸底包",
-      "file": "小米の草莓季闷安卓.bds",
-      "thumb": "小米の草莓季闷安卓.bds_py_26_light_thumb.png",
-      "full": "小米の草莓季闷安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "苏婳贴纸底包",
-      "file": "小米の邮票小日常闷安卓.bds",
-      "thumb": "小米の邮票小日常闷安卓.bds_py_26_light_thumb.png",
-      "full": "小米の邮票小日常闷安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "小米の翻糖结脆安卓",
-      "file": "小米の翻糖结脆安卓.bds",
-      "thumb": "小米の翻糖结脆安卓.bds_py_26_light_thumb.png",
-      "full": "小米の翻糖结脆安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "小米の水色梦境闷",
-      "file": "小米の水色梦境闷安卓.bds",
-      "thumb": "小米の水色梦境闷安卓.bds_py_26_light_thumb.png",
-      "full": "小米の水色梦境闷安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "小米の十字架天使心闷安卓",
-      "file": "安卓小米の十字架天使心闷.bds",
-      "thumb": "安卓小米の十字架天使心闷.bds_py_26_light_thumb.png",
-      "full": "安卓小米の十字架天使心闷.bds_py_26_light.png"
-    },
-    {
-      "name": "小米の翻糖结闷安卓",
-      "file": "小米の翻糖结闷安卓.bds",
-      "thumb": "小米の翻糖结闷安卓.bds_py_26_light_thumb.png",
-      "full": "小米の翻糖结闷安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "苏婳贴纸底包",
-      "file": "小米の邮票小日常脆闷安卓.bds",
-      "thumb": "小米の邮票小日常脆闷安卓.bds_py_26_light_thumb.png",
-      "full": "小米の邮票小日常脆闷安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "小米の水色梦境脆",
-      "file": "小米の水色梦境脆安卓.bds",
-      "thumb": "小米の水色梦境脆安卓.bds_py_26_light_thumb.png",
-      "full": "小米の水色梦境脆安卓.bds_py_26_light.png"
-    },
     {
       "name": "苏婳贴纸底包",
       "file": "小米の草莓季闷iOS.bdi",
@@ -158,6 +80,84 @@
       "file": "小米のKrimss闷.bdi",
       "thumb": "小米のKrimss闷.bdi_py_26_light_thumb.png",
       "full": "小米のKrimss闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "苏婳贴纸底包",
+      "file": "小米の草莓季脆安卓.bds",
+      "thumb": "小米の草莓季脆安卓.bds_py_26_light_thumb.png",
+      "full": "小米の草莓季脆安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "小米のKrimss脆安卓",
+      "file": "小米のKrimss脆安卓.bds",
+      "thumb": "小米のKrimss脆安卓.bds_py_26_light_thumb.png",
+      "full": "小米のKrimss脆安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "小米の十字架天使心脆安卓",
+      "file": "安卓小米の十字架天使心脆.bds",
+      "thumb": "安卓小米の十字架天使心脆.bds_py_26_light_thumb.png",
+      "full": "安卓小米の十字架天使心脆.bds_py_26_light.png"
+    },
+    {
+      "name": "小米のKrimss闷安卓",
+      "file": "小米のKrimss闷安卓.bds",
+      "thumb": "小米のKrimss闷安卓.bds_py_26_light_thumb.png",
+      "full": "小米のKrimss闷安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "苏婳贴纸底包",
+      "file": "小米の草莓季脆2安卓.bds",
+      "thumb": "小米の草莓季脆2安卓.bds_py_26_light_thumb.png",
+      "full": "小米の草莓季脆2安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "苏婳贴纸底包",
+      "file": "小米の草莓季闷安卓.bds",
+      "thumb": "小米の草莓季闷安卓.bds_py_26_light_thumb.png",
+      "full": "小米の草莓季闷安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "苏婳贴纸底包",
+      "file": "小米の邮票小日常闷安卓.bds",
+      "thumb": "小米の邮票小日常闷安卓.bds_py_26_light_thumb.png",
+      "full": "小米の邮票小日常闷安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "小米の翻糖结脆安卓",
+      "file": "小米の翻糖结脆安卓.bds",
+      "thumb": "小米の翻糖结脆安卓.bds_py_26_light_thumb.png",
+      "full": "小米の翻糖结脆安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "小米の水色梦境闷",
+      "file": "小米の水色梦境闷安卓.bds",
+      "thumb": "小米の水色梦境闷安卓.bds_py_26_light_thumb.png",
+      "full": "小米の水色梦境闷安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "小米の十字架天使心闷安卓",
+      "file": "安卓小米の十字架天使心闷.bds",
+      "thumb": "安卓小米の十字架天使心闷.bds_py_26_light_thumb.png",
+      "full": "安卓小米の十字架天使心闷.bds_py_26_light.png"
+    },
+    {
+      "name": "小米の翻糖结闷安卓",
+      "file": "小米の翻糖结闷安卓.bds",
+      "thumb": "小米の翻糖结闷安卓.bds_py_26_light_thumb.png",
+      "full": "小米の翻糖结闷安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "苏婳贴纸底包",
+      "file": "小米の邮票小日常脆闷安卓.bds",
+      "thumb": "小米の邮票小日常脆闷安卓.bds_py_26_light_thumb.png",
+      "full": "小米の邮票小日常脆闷安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "小米の水色梦境脆",
+      "file": "小米の水色梦境脆安卓.bds",
+      "thumb": "小米の水色梦境脆安卓.bds_py_26_light_thumb.png",
+      "full": "小米の水色梦境脆安卓.bds_py_26_light.png"
     }
   ]
 }
