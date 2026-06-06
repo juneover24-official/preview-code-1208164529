@@ -1,7 +1,7 @@
 {
   "qq_number": "1208164529",
   "group_number": "860688467",
-  "updated_at": "2026-06-06T11:52:46+00:00",
+  "updated_at": "2026-06-06T11:54:39+00:00",
   "skins": [
     {
       "name": "米の关于萌_融合",
@@ -20,6 +20,12 @@
       "file": "小米の少女心纪闷.bdi",
       "thumb": "小米の少女心纪闷.bdi_py_26_light_thumb.png",
       "full": "小米の少女心纪闷.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "米の花蕾结闷_融合",
+      "file": "米の花蕾结闷_融合.bdi",
+      "thumb": "米の花蕾结闷_融合.bdi_py_26_light_thumb.png",
+      "full": "米の花蕾结闷_融合.bdi_py_26_light_thumb.png"
     }
   ]
 }
