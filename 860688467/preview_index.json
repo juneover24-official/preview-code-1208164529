@@ -1,7 +1,7 @@
 {
   "qq_number": "1208164529",
   "group_number": "860688467",
-  "updated_at": "2026-06-06T12:07:33+00:00",
+  "updated_at": "2026-06-06T12:08:34+00:00",
   "skins": [
     {
       "name": "米の关于萌_融合",
@@ -104,6 +104,12 @@
       "file": "米2-奶油卷2.bdi",
       "thumb": "米2-奶油卷2.bdi_py_26_light_thumb.png",
       "full": "米2-奶油卷2.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "米の灰色夢脆",
+      "file": "米の灰色夢脆.bdi",
+      "thumb": "米の灰色夢脆.bdi_py_26_light_thumb.png",
+      "full": "米の灰色夢脆.bdi_py_26_light_thumb.png"
     }
   ]
 }
