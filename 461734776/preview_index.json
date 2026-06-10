@@ -1,7 +1,7 @@
 {
   "qq_number": "1208164529",
   "group_number": "461734776",
-  "updated_at": "2026-06-10T10:40:51+00:00",
+  "updated_at": "2026-06-10T10:52:43+00:00",
   "skins": [
     {
       "name": "米の软奶乳味罐脆",
@@ -74,6 +74,12 @@
       "file": "米の软奶乳味罐闷_融合.bdi",
       "thumb": "米の软奶乳味罐闷_融合.bdi_py_26_light_thumb.png",
       "full": "米の软奶乳味罐闷_融合.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "米の软奶乳味罐脆_融合",
+      "file": "米の软奶乳味罐脆_融合.bdi",
+      "thumb": "米の软奶乳味罐脆_融合.bdi_py_26_light_thumb.png",
+      "full": "米の软奶乳味罐脆_融合.bdi_py_26_light_thumb.png"
     }
   ]
 }
