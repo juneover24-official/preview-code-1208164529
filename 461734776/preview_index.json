@@ -1,7 +1,7 @@
 {
   "qq_number": "1208164529",
   "group_number": "461734776",
-  "updated_at": "2026-06-18T02:24:15+00:00",
+  "updated_at": "2026-06-18T02:26:26+00:00",
   "skins": [
     {
       "name": "米の软奶乳味罐脆",
@@ -158,6 +158,12 @@
       "file": "小米_奶油少女症-安卓闷融.bds",
       "thumb": "小米_奶油少女症-安卓闷融.bds_py_26_light_thumb.png",
       "full": "小米_奶油少女症-安卓闷融.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "米の软奶乳味罐脆安卓",
+      "file": "米の软奶乳味罐脆安卓.bds",
+      "thumb": "米の软奶乳味罐脆安卓.bds_py_26_light_thumb.png",
+      "full": "米の软奶乳味罐脆安卓.bds_py_26_light_thumb.png"
     }
   ]
 }
