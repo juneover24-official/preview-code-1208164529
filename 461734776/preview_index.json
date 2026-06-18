@@ -1,7 +1,7 @@
 {
   "qq_number": "1208164529",
   "group_number": "461734776",
-  "updated_at": "2026-06-18T02:33:31+00:00",
+  "updated_at": "2026-06-18T02:34:34+00:00",
   "skins": [
     {
       "name": "米の软奶乳味罐脆",
@@ -176,6 +176,12 @@
       "file": "绒乳盒-闷脆安卓.bds",
       "thumb": "绒乳盒-闷脆安卓.bds_py_26_light_thumb.png",
       "full": "绒乳盒-闷脆安卓.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "绒乳盒-闷安卓",
+      "file": "绒乳盒-闷融安卓.bds",
+      "thumb": "绒乳盒-闷融安卓.bds_py_26_light_thumb.png",
+      "full": "绒乳盒-闷融安卓.bds_py_26_light_thumb.png"
     }
   ]
 }
