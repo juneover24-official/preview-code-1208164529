@@ -1,7 +1,7 @@
 {
   "qq_number": "1208164529",
   "group_number": "1059630078",
-  "updated_at": "2026-07-12T16:27:58+00:00",
+  "updated_at": "2026-07-13T04:39:15+00:00",
   "skins": [
     {
       "name": "蝶语_脆",
@@ -20,6 +20,12 @@
       "file": "蝶语_闷.bds",
       "thumb": "蝶语_闷.bds_py_26_light_thumb.png",
       "full": "蝶语_闷.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "蝶语_脆",
+      "file": "蝶语_脆.bdi",
+      "thumb": "蝶语_脆.bdi_py_26_light_thumb.png",
+      "full": "蝶语_脆.bdi_py_26_light_thumb.png"
     }
   ]
 }
